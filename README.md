@@ -14,4 +14,5 @@ I'm learning cybersecurity from zero. Documenting everything here.
 ## About
 
 Starting: 13th September, 2026
+
 Goal: Red Teamer
